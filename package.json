@@ -1,0 +1,15 @@
+{
+  "name": "ejemplo",
+  "version": "1.0.0",
+  "description": "Dejar los días enteros",
+  "main": "index.js",
+  "dependencies": {
+    "d3-time": "^1.0.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alberto",
+  "license": "ISC"
+}
